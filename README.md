@@ -30,10 +30,9 @@ Analizar la evolución del precio de Bitcoin (BTC/USD) mediante el uso de modelo
 ## 📂 Estructura del Proyecto
 btc-series-tiempo/
 ├── datos/
-│ └── BTC_USD_ALL_20240601.xlsx # Datos históricos diarios del precio de BTC
-├── BTC_fernandez_lopretto_quiros_villanueva.ipynb # Notebook principal
+│ └── BTC_USD_ALL_20240601.xlsx
+├── BTC_fernandez_lopretto_quiros_villanueva.ipynb
 ├── readme
-
 
 ---
 
@@ -92,7 +91,7 @@ pip install pandas matplotlib seaborn numpy scikit-learn statsmodels arch keras
 
 3. Ejecutar la notebook:
 
-Abrí `BTC_fernandez_lopretto_quiros_villanueva.ipynb` con Jupyter Notebook, JupyterLab o VSCode.
+Abrir `BTC_fernandez_lopretto_quiros_villanueva.ipynb` con Jupyter Notebook, JupyterLab o VSCode.
 
 ---
 
