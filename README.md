@@ -29,10 +29,12 @@ Analizar la evolución del precio de Bitcoin (BTC/USD) mediante el uso de modelo
 
 ## 📂 Estructura del Proyecto
 btc-series-tiempo/
-├── datos/
-│ └── BTC_USD_ALL_20240601.xlsx
-├── BTC_fernandez_lopretto_quiros_villanueva.ipynb
-├── readme
+- datos/
+   - BTC_USD_ALL_20240601.xlsx
+- scripts/
+   - BTC_fernandez_lopretto_quiros_villanueva.ipynb
+- readme.md
+- banner.jpg
 
 ---
 
