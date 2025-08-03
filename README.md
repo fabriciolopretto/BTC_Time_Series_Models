@@ -9,17 +9,6 @@ Analizar la evolución del precio de Bitcoin (BTC/USD) mediante el uso de modelo
 
 ---
 
-## 📂 Estructura del Proyecto
-btc-series-tiempo/
-- datos/
-   - BTC_USD_ALL_20240601.xlsx
-- scripts/
-   - BTC_experiments.ipynb
-- readme.md
-- banner.jpg
-
----
-
 ## ⚙️ Tecnologías y Librerías Utilizadas
 
 - Python 3.x  
@@ -73,9 +62,7 @@ cd btc-series-tiempo
 2. Instalar dependencias necesarias:
 pip install pandas matplotlib seaborn numpy scikit-learn statsmodels arch keras
 
-3. Ejecutar la notebook:
-
-Abrir `BTC_experiments.ipynb` con Jupyter Notebook, JupyterLab o VSCode.
+3. Ejecutar la notebook con Jupyter Notebook, JupyterLab o VSCode.
 
 ---
 
