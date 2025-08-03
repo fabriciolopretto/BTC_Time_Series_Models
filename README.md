@@ -1,24 +1,6 @@
 # **Análisis de Series Temporales en el Mercado de Bitcoin (BTC/USD)**
 ![Banner del Proyecto](banner.jpg)
 
-Trabajo práctico final de la materia **Análisis de Series Temporales I**  
-2° Bimestre 2025
-
----
-
-## 👨‍🏫 Docente
-
-Camilo Argoty
-
----
-
-## 👥 Integrantes
-
-- Agustina Quiros (a1711)  
-- Cecilia Azul Villanueva (a1605)  
-- Fabricio Lopretto (a1616)  
-- Gonzalo Gabriel Fernandez (e1911)
-
 ---
 
 ## 📌 Objetivo
@@ -32,7 +14,7 @@ btc-series-tiempo/
 - datos/
    - BTC_USD_ALL_20240601.xlsx
 - scripts/
-   - BTC_fernandez_lopretto_quiros_villanueva.ipynb
+   - BTC_experiments.ipynb
 - readme.md
 - banner.jpg
 
@@ -93,13 +75,13 @@ pip install pandas matplotlib seaborn numpy scikit-learn statsmodels arch keras
 
 3. Ejecutar la notebook:
 
-Abrir `BTC_fernandez_lopretto_quiros_villanueva.ipynb` con Jupyter Notebook, JupyterLab o VSCode.
+Abrir `BTC_experiments.ipynb` con Jupyter Notebook, JupyterLab o VSCode.
 
 ---
 
 ## 📝 Licencia
 
-Este proyecto fue realizado con fines académicos en el marco de la materia **Análisis de Series Temporales I**.  
+Este proyecto fue realizado con fines académicos.  
 No representa asesoramiento financiero.
 
 ---
